@@ -1,6 +1,6 @@
 # California Temperature and Precipitation Data (2001–2023)
 
-This repository provides long-term monthly climate data for California, including minimum temperature, maximum temperature, and total precipitation from 2001 to 2023. These datasets are useful for environmental monitoring, climate trend analysis, and resource management studies in the western United States.
+This repository provides long-term monthly climate data for California, including minimum temperature, maximum temperature, and total precipitation from 2001 to 2023. These datasets support environmental monitoring, climate trend analysis, and resource management studies in the western United States.
 
 ## Data Description
 
@@ -8,28 +8,28 @@ This repository provides long-term monthly climate data for California, includin
 - `temp_max.xls`: Monthly maximum temperature (°C)
 - `precipitation.xls`: Monthly total precipitation (mm)
 
-All files include aggregated values across the state, organized to support longitudinal analysis and integration with geospatial datasets.
+All files contain statewide aggregated monthly values.
+
+## Data Sources
+
+Data were obtained from the [NOAA National Centers for Environmental Information (NCEI) – Climate at a Glance (CAG)](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series).  
+The tool allows users to generate time series of temperature and precipitation statistics by state and time period.
 
 ## Purpose
 
-This dataset supports research on climate variability and its impact on ecological systems, agricultural productivity, and fire risk. It can be used for time series analysis or integrated with satellite-based indicators for broader environmental assessments.
+This dataset supports research on climate variability and its impact on ecological systems, agriculture, and fire risk. It is intended for integration with geospatial datasets and time series models.
 
-## Research Context
+## Applications
 
-The data in this repository is part of a broader effort to create open, reproducible resources for environmental modeling and decision support tools. It directly supports research activities aligned with national interests such as:
-
-- Drought and wildfire risk modeling
-- Land-climate interaction analysis
-- Regional climate adaptation planning
-
-## National Interest Statement
-
-As part of my EB-2 NIW endeavor, this repository contributes to research that informs climate resilience strategies and environmental decision-making in the United States. The work emphasizes the importance of open, accessible, and scientifically robust datasets to support U.S. sustainability and disaster response goals.
+- Drought and wildfire trend analysis  
+- Climate impact studies on agriculture and ecosystems  
+- Integration with satellite data for multi-factor environmental modeling  
+- Long-term monitoring and regional climate assessments
 
 ## Temporal Coverage
 
-- Period: January 2001 – December 2023
-- Interval: Monthly
+- Period: January 2001 – December 2023  
+- Frequency: Monthly
 
 ## License
 
