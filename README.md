@@ -4,9 +4,9 @@ This repository provides long-term monthly climate data for California, includin
 
 ## Data Description
 
-- `temp_min.xls`: Monthly minimum temperature (°C)
-- `temp_max.xls`: Monthly maximum temperature (°C)
-- `precipitation.xls`: Monthly total precipitation (mm)
+- `california_monthly_min_temperature.xls`: Monthly minimum temperature (°C)
+- `california_monthly_max_temperature.xls`: Monthly maximum temperature (°C)
+- `california_monthly_precipitation.xls`: Monthly total precipitation (mm)
 
 All files contain statewide aggregated monthly values.
 
